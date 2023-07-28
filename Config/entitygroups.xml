@@ -1,0 +1,67 @@
+<config>
+	<set xpath="/entitygroups/entitygroup[@name='ZombiesWastelandNight2']">
+		zombieSpider
+		zombieBoe, .05
+		zombieJoe, .05
+		zombieSteve, .05
+		zombieTomClark, .05
+		zombieMoe, .05
+		zombieYo, .05
+		zombieArlene
+		zombieDarlene
+		zombieMarlene
+		zombieNurse
+		animalZombieDog, .15
+		zombieSteveCrawler, .05
+		zombieFatCop, .15
+		zombieBurnt, .07
+		animalRabbit, .1
+		zombieWightFeral, .1
+		animalZombieVulture, .6
+		animalZombieVultureRadiated, .4
+		zombieFatHawaiian
+	</set>
+
+	<set xpath="/entitygroups/entitygroup[@name='ZombiesHoard']">
+		zombieSpider
+		zombieBoe, .1
+		zombieJoe, .1
+		zombieSteve, .1
+		zombieTomClark, .1
+		zombieMoe, .1
+		zombieYo, .1
+		zombieArlene
+		zombieDarlene
+		zombieMarlene
+		zombieNurse
+		zombieFatCop, .05
+		animalZombieDog, .05
+		animalRabbit, .05
+		zombieSteveCrawler, .1
+	</set>
+
+	<set xpath="/entitygroups/entitygroup[@name='EnemyAnimalsBurntForest']">
+		animalZombieDog, 9
+		animalRabbit, 3
+		animalDireWolf, 3
+		none, 85
+	</set>
+
+	<set xpath="/entitygroups/entitygroup[@name='EnemyAnimalsWasteland']">
+		animalSnake, 40
+		animalZombieVulture, 30
+		animalZombieDog, 30
+	</set>
+
+	<set xpath="/entitygroups/entitygroup[@name='animalZombieBear']">animalRabbit</set>
+	
+	<set xpath="/entitygroups/entitygroup[@name='ZombieAnimalsGroup']">
+		animalZombieDog, .95
+		animalRabbit,.05
+	</set>
+
+	<set xpath="/entitygroups/entitygroup[@name='ZombieBearsGroup']">
+		animalRabbit
+	</set>
+
+</config>
